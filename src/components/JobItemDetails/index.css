@@ -1,0 +1,39 @@
+.jobItem-container {
+  background-color: #272727;
+  padding: 35px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-heading {
+  color: white;
+  font-size: 15px;
+}
+.failure-description {
+  color: white;
+  font-size: 10px;
+}
+.failure-image {
+  height: 400px;
+  width: 700px;
+}
+.unorder-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.retry-button {
+  height: 35px;
+  width: 120px;
+  border-radius: 7px;
+  background-color: blue;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+}
+.similar-job-heading {
+  color: white;
+  font-size: 45px;
+}

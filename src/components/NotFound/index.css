@@ -1,0 +1,19 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #272727;
+}
+.not-found-image {
+  height: 300px;
+  width: 600px;
+}
+.not-found-heading {
+  color: #ffffff;
+  font-size: 40px;
+}
+.not-found-description {
+  color: #ffffff;
+  font-size: 30px;
+}

@@ -1,0 +1,83 @@
+.jobCard-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 25px;
+  background-color: #475569;
+  border-radius: 10px;
+  margin: 15px;
+}
+.first-layer {
+  display: flex;
+  height: 60px;
+}
+.company-logo-image {
+  height: 60px;
+  width: 60px;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.title-rating-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.job-title {
+  color: white;
+  font-size: 15px;
+}
+.rating-star {
+  display: flex;
+  align-items: center;
+}
+.rating {
+  color: white;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.second-layer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.location-card {
+  display: flex;
+  margin-right: 10px;
+  align-items: center;
+}
+.type-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.location-type {
+  display: flex;
+}
+.location {
+  color: white;
+  font-size: 15px;
+  margin: 10px;
+}
+.type {
+  color: white;
+  font-size: 15px;
+  margin: 10px;
+}
+.salary {
+  color: white;
+  font-size: 20px;
+}
+.line {
+  border-width: 0.5px;
+  border-color: white;
+  width: 100%;
+}
+.description-heading {
+  color: white;
+  font-size: 20px;
+}
+.job-description {
+  color: white;
+  font-size: 15px;
+}

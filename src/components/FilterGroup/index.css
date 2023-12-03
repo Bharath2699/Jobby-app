@@ -1,0 +1,27 @@
+.salary-heading {
+  color: white;
+  font-size: 15px;
+}
+.check-box {
+  margin-right: 10px;
+}
+.radio-button {
+  margin-right: 10px;
+}
+.list {
+  list-style-type: none;
+}
+.salary {
+  color: white;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.employment-heading {
+  color: whitesmoke;
+  font-size: 15px;
+}
+.type-of-employment {
+  color: white;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
